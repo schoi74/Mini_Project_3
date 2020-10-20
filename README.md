@@ -32,7 +32,7 @@ We will use Microsoft Excel to answer:
 
 ### How are different tracts clustered based on the four different population metrics?
 
-![alt_text]()
+![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/cluster-analysis.png)
 
 __Anchor__ 1 is a cluster of _slightly greater_ individual income, _slightly greater_ household income, _less than average_ incarceration rate, and _greater_ employment rate
 
