@@ -32,23 +32,21 @@ We will use Microsoft Excel to answer:
 
 ### How are different tracts clustered based on the four different population metrics?
 
+![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/cluster%20analysis%200.png)
+
+__Anchor__ 1 is a cluster of _slightly greater_ individual income, _slightly greater_ household income, _less than average_ incarceration rate, and _greater_ employment rate
+
+__Anchor 2__ is a cluster of _less than average_ individual income, _less than average_ household income, _slightly greater_ incarceration rate, and _less than average_ employment rate
+
+__Anchor 3__ is a cluster of _one standard deviation less than average_ individual income, _one standard deviation less than average_ household income, _more than one standard deviation greater incarceration rate, and way less than average_ employment rate.
+
+__Anchor 4__ is a cluster of _more than two standard deviations greater_ individual income, _slightly less than two standard deviations greater_ household income, _one and a half standard deviations less than average_ incarceration rate, and _slightly more than one standard deviation greater_ employment rate.
+
 ![alt_text]()
 
-- __Anchor 1
+- __Anchor #1
 
-Anchor 1 is a cluster of _slightly greater_ individual income, _slightly greater_ household income, _less than average_ incarceration rate, and _greater_ employment rate.
 
-- __Anchor 2
-
-Anchor 2 is a cluster of _less than average_ individual income, _less than average_ household income, _slightly greater_ incarceration rate, and _less than average_ employment rate.
-
-- __Anchor 3
-
-Anchor 3 is a cluster of _one standard deviation less than average_ individual income, _one standard deviation less than average_ household income, _more than one standard deviation greater incarceration rate, and way less than average_ employment rate.
-
-- __Anchor 4
-
-Anchor 4 is a cluster of _more than two standard deviations greater_ individual income, _slightly less than two standard deviations greater_ household income, _one and a half standard deviations less than average_ incarceration rate, and _slightly more than one standard deviation greater_ employment rate.
 
 ## Summary
 
