@@ -6,7 +6,7 @@ Nicholas Bogel-Burroughs and Lorraine Mirabella [published an article](baltimore
 
 ## Business Questions
 
-_How are census tracts in Baltimore City grouped based on individual income, household income, incarceration rate, and employment rate?
+_How are census tracts in Baltimore City grouped based on individual income, household income, incarceration rate, and employment rate?_
 
 ## Data Question - Open Data
 
