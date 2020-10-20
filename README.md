@@ -44,6 +44,8 @@ __Anchor 4__ is a cluster of _more than two standard deviations greater_ individ
 
 ![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/min_dist2.png)
 
+![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/count_visual.png)
+
 Here, we see that The sum of minimum distance squared is 243.21 units. For 230 data points, I think it is safe to say that there is a fairly strong correlation for tracts clustered into these four groups, as there is an average of 1.057 distance squared units.
 
 ![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/count-of-tracts.png)
