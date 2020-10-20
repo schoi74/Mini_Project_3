@@ -44,7 +44,7 @@ __Anchor 4__ is a cluster of _more than two standard deviations greater_ individ
 
 ![alt_text]()
 
-Here, if I were to rank these anchors 
+Here, we see that the census tracts are distributed in increments. 
 
 ## Summary
 
