@@ -92,3 +92,5 @@ The results that I expected were that it would be pretty evened out and I was su
 11. Use the Solver analysis tool to conduct the cluster analysis calculations.
 12. Add constraints in the Solver window.
 13. Use the function COUNTIF to count the tracts in each cluster.
+14. Create a bar graph that visualizes the number of tracts in each group.
+15. Add chart title and axes titles to the chart.
