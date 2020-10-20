@@ -42,11 +42,11 @@ __Anchor 3__ is a cluster of _one standard deviation less than average_ individu
 
 __Anchor 4__ is a cluster of _more than two standard deviations greater_ individual income, _slightly less than two standard deviations greater_ household income, _one and a half standard deviations less than average_ incarceration rate, and _slightly more than one standard deviation greater_ employment rate.
 
-![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/count-of-tracts.png)
+![alt_text]()
 
 Here, we see that The sum of minimum distance squared is 243.21 units. For 230 data points, I think it is safe to say that there is a fairly strong correlation for tracts clustered into these four groups, as there is an average of 1.057 distance squared units.
 
-![alt_text]()
+![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/count-of-tracts.png)
 
 Here, we see that the census tracts are distributed in increments:
 
