@@ -32,7 +32,7 @@ We will use Microsoft Excel to answer:
 
 ### How are different tracts clustered based on the four different population metrics?
 
-![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/cluster_analysis.png)
+![alt_text]()
 
 __Anchor__ 1 is a cluster of _slightly greater_ individual income, _slightly greater_ household income, _less than average_ incarceration rate, and _greater_ employment rate
 
@@ -42,7 +42,7 @@ __Anchor 3__ is a cluster of _one standard deviation less than average_ individu
 
 __Anchor 4__ is a cluster of _more than two standard deviations greater_ individual income, _slightly less than two standard deviations greater_ household income, _one and a half standard deviations less than average_ incarceration rate, and _slightly more than one standard deviation greater_ employment rate.
 
-![alt_text](https://github.com/schoi74/how-census-tracts-are-grouped-based-on-population-metrics/blob/main/count_of_tracts.png)
+![alt_text]()
 
 Here, if I were to rank these anchors 
 
